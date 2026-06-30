@@ -18,17 +18,7 @@ Proposed Solution
 The prototype introduces a guided recommendation experience called Art Finder.
 
 User Journey
-Homepage
-⬇
-Start Art Finder
-⬇
-5-Step Personalization Quiz
-⬇
-AI-Powered Recommendations
-⬇
-Product Page
-⬇
-Purchase
+Homepage ➡️ Start Art Finder ➡️ 5-Step Personalization Quiz ➡️ AI-Powered Recommendations ➡️ Product Page ➡️ Purchase
 
 Features
 - Modern premium landing page
